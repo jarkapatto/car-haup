@@ -17,11 +17,12 @@
 ## 🚀 การติดตั้งและใช้งาน (Getting Started)
 
 **1. คลอนโปรเจกต์และติดตั้งแพ็กเกจ**
-```bash
+bash
 git clone <your-repo-url>
 cd company-car-app
 npm install
-2. เริ่มต้นฐานข้อมูลด้วย Docker
+
+**2. เริ่มต้นฐานข้อมูลด้วย Docker**
 
 Bash
 docker-compose up -d
